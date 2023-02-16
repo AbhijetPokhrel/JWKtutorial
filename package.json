@@ -12,6 +12,6 @@
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.6.0",
-    "node-jose": "^2.1.1"
+    "node-jose": "^2.2.0"
   }
 }
